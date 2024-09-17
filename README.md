@@ -1,2 +1,2 @@
 # pcr-service-api
-test repo for github release script   sfadsf
+test repo for github release script
